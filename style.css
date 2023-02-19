@@ -2,6 +2,10 @@ p{
     background-color: #fff;
     color: rgb(99, 58, 99);
 }
+.lorem{
+    background-color: red;
+    color: aliceblue;
+}
 .hi{
     background-color: green;
     color: beige;
